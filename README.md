@@ -82,5 +82,3 @@ Resultado:
 Após a configuração, os PCs conseguiram obter automaticamente um endereço IP através do servidor DHCP e se comunicarem entre si.
 Com isso conseguir montar uma rede pequena de 3 PCs, switch e 1 servidor, que foi configurado para atuar como um DHCP, e demostrei na pratica o funcionamento básico do processo de atribuição automática de endereços IP.
 
-Consegui montar uma rede com 3 Pcs 1 switch e um servidor para atuar como DHCP
-
